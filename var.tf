@@ -10,6 +10,7 @@ variable "cache" {
 			cache_misses_threshold    = 5000
 			cache_cpu_threshold = 50
 			cache_connected_clients_threshold       = 5000
+		/* add comments inside the file */
 		
     }
 
